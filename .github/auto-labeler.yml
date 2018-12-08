@@ -8,6 +8,6 @@ labels:
         - /\btest(ing)?\b/g
     'Client: Csharp':
         - /\bcsharp\b/g
-        - /\b[Cc]#\b/g
+        - /\b[Cc]#/g
     'Server: Csharp':
         - /\baspnetcore\b/g
