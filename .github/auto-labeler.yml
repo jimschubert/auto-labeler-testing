@@ -3,12 +3,12 @@ comment: >-
     🏷 I have applied any labels matching special text in your issue.
 labels:
     'bug':
-        - '/\bbug[s]?\b/g'
+        - '\bbug[s]?\b'
     'help wanted':
-        - '/\btest(ing)?\b/g'
+        - '\btest(ing)?\b'
     'Client: Csharp':
-        - '/\bcsharp\b/g'
-        - '/\b[Cc]#/g'
+        - '\bcsharp\b'
+        - '\b[Cc]#'
     'Server: Csharp':
-        - '/\baspnetcore\b/g'
+        - '\baspnetcore\b'
 
