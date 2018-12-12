@@ -8,6 +8,7 @@ labels:
         - '\bbug[s]?\b'
     'help wanted':
         - '\btest(ing)?\b'
+        - '\bhelp( me)?\b'
     'Client: Csharp':
         - '\bcsharp\b'
         - '\b[Cc]#'
